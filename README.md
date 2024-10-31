@@ -1,4 +1,4 @@
-"Prêt à dépenser” offers consumer credit to people with little or no loan history. The aim of this project is to develop a scoring model to predict the probability of a customer defaulting on a loan. This is a supervised binary classification problem in which the “target” to be predicted will be 0 if the customer is able to repay the loan, and 1 if the customer is unable to repay the loan. 
+"Prêt à dépenser" offers consumer credit to people with little or no loan history. The aim of this project is to develop a scoring model to predict the probability of a customer defaulting on a loan. This is a supervised binary classification problem in which the “target” to be predicted will be 0 if the customer is able to repay the loan, and 1 if the customer is unable to repay the loan. 
 
 
 
