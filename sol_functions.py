@@ -10,11 +10,6 @@
 # All tables are joined with the application DF using the SK_ID_CURR key (except bureau_balance).
 # You can use LightGBM with KFold or Stratified KFold.
 
-# Update 16/06/2018:
-# - Added Payment Rate feature
-# - Removed index from features
-# - Use standard KFold CV (not stratified)
-
 import numpy as np
 import pandas as pd
 import gc
