@@ -85,18 +85,12 @@ The dataset contains over **300,000 loan applications** with 122 features before
 
 ---
 
-## 💻 **Interactive Dashboard**
+## 💻 **Interactive Dashboard Demo**
 
-The project includes an interactive dashboard hosted [here](https://dash-alexis-p7.herokuapp.com/). 
+The project includes an interactive dashboard that was previously hosted on Heroku. Due to Heroku’s recent policy change ending free hosting services, the dashboard is no longer live. However, detailed instructions for setting up and running the dashboard locally are provided here. 
 
-
-
-https://github.com/user-attachments/assets/0b638eaa-83f3-4dc9-9a4d-ca1c4c08249a
-
-
-
-
-
+https://github.com/user-attachments/assets/d9c891fb-4af7-4858-aace-7b8ff02201eb
+https://github.com/user-attachments/assets/c57da38b-c879-4df7-9bcf-197add235a92
 
 
 ### **Features**:
