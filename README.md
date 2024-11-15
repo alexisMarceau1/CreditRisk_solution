@@ -1,5 +1,7 @@
 # 📊 **CreditRisk: A Credit Scoring Model for Predicting Loan Defaults**
 
+![Dashboard Preview](demo/dash.png)
+
 ## 🏢 **Project Overview**
 
 CreditRisk is a machine learning project designed to predict the likelihood of loan defaults for individuals with limited or no credit history. This project aims to build a robust credit scoring model and provide transparent insights into the predictions using an interactive dashboard.
