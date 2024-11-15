@@ -7,10 +7,10 @@
 CreditRisk is a machine learning project designed to predict the likelihood of loan defaults for individuals with limited or no credit history. This project aims to build a robust credit scoring model and provide transparent insights into the predictions using an interactive dashboard.
 
 ### **Key Objectives**
-- **Reduce financial losses**: Identify high-risk clients likely to default on their loans.
-- **Maximize profits**: Minimize rejecting good clients who can repay their loans.
-- **Ensure transparency**: Explain credit decisions clearly to stakeholders through a dashboard.
-
+- **Determine default probability**: Accurately predict the likelihood of loan default for each client.  
+- **Optimize profits**: Focus on reducing False Negatives (high-risk clients incorrectly identified as low risk), which directly impact financial performance.  
+- **Ensure transparency**: Provide clear, interpretable insights into credit decisions using an interactive dashboard to build trust with stakeholders.  
+  
 ---
 
 ## 📚 **Dataset Description**
