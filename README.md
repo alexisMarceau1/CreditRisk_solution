@@ -89,9 +89,13 @@ The dataset contains over **300,000 loan applications** with 122 features before
 
 The project includes an interactive dashboard that was previously hosted on Heroku. Due to Heroku’s recent policy change ending free hosting services, the dashboard is no longer live. However, detailed instructions for setting up and running the dashboard locally are provided here. 
 
-https://github.com/user-attachments/assets/d9c891fb-4af7-4858-aace-7b8ff02201eb
 
-https://github.com/user-attachments/assets/c57da38b-c879-4df7-9bcf-197add235a92
+https://github.com/user-attachments/assets/c12f66ef-31ed-4008-a8f6-466a66160254
+
+
+
+https://github.com/user-attachments/assets/1faf7368-595f-48f4-a074-173a5db44d5c
+
 
 
 ### **Features**:
