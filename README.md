@@ -108,11 +108,12 @@ The project includes an interactive dashboard that was previously hosted on Hero
 
 https://github.com/user-attachments/assets/c12f66ef-31ed-4008-a8f6-466a66160254
 > **Note:** This gauge illustrates the risk of default as predicted by the model. The thresholds (e.g., 20%, 40%, 60%) help classify clients into risk levels:  
-  - **Green (0-20%)**: Low risk, likely to repay.  
-  - **Yellow (20-40%)**: Moderate risk.  
-  - **Orange (40-60%)**: Elevated risk.  
-  - **Red (60-100%)**: High risk, likely to default.  
-  Adjusting the decision threshold (e.g., setting it at 60%) allows the institution to reduce False Negatives by rejecting    clients with a high predicted risk of default, aligning decisions with business risk tolerance.
+> - **Green (0-20%)**: Low risk, likely to repay.  
+> - **Yellow (20-40%)**: Moderate risk.  
+> - **Orange (40-60%)**: Elevated risk.  
+> - **Red (60-100%)**: High risk, likely to default.  
+> Adjusting the decision threshold (e.g., setting it at 60%) allows the institution to reduce False Negatives by rejecting clients with a high predicted risk of default, aligning decisions with business risk tolerance.
+
 
 
 https://github.com/user-attachments/assets/1faf7368-595f-48f4-a074-173a5db44d5c
