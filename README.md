@@ -86,7 +86,7 @@ False Negatives are more costly than False Positives because they lead to direct
 ## 🏆 **Results**
 
 ### **Best Model**: LightGBM with Balanced Class Weight
-- **AUC**: 0.785, Highest among all tested models.
+- **AUC**: 0.785, highest among all tested models. A higher AUC ensures more accurate identification of risky and reliable clients, minimizing losses and maximizing approved loans
 - **Training Time**: Reasonable for deployment.
 
 ### **Optimization Impact**
