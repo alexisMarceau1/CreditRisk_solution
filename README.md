@@ -1,8 +1,5 @@
 # 📊 **CreditRisk: Predicting Loan Defaults**
 
-## **Summary**:  
-This project successfully combines machine learning and business insights to predict loan default probabilities. By focusing on reducing False Negatives (high-risk clients incorrectly classified as low risk), the model minimizes financial losses while maintaining transparency through a user-friendly dashboard. The results demonstrate the business impact of data-driven credit decisions.
-
 ![Dashboard Preview](demo/dash1.png)
 
 ## 🏢 **Project Overview**
