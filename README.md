@@ -91,6 +91,7 @@ False Negatives are more costly than False Positives because they lead to direct
 
 ### **Optimization Impact**
 - Reduced **False Negatives (FN)** from 563 to 545, addressing the most costly prediction errors for the business.
+  ![lgmb](demo/lgbm.png)
 
 ### **Interpretable Results**
 - **Global Feature Importance**:
