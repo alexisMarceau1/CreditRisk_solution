@@ -89,6 +89,12 @@ The dataset contains over **300,000 loan applications** with 122 features before
 
 The project includes an interactive dashboard hosted [here](https://dash-alexis-p7.herokuapp.com/). 
 
+
+https://github.com/user-attachments/assets/2d03ee51-2b00-42f3-92e3-ba3f7801d9cd
+
+
+
+
 ### **Features**:
 - Visualize the credit score and its interpretation for each client.
 - Compare individual client data against the overall dataset or a group of similar clients.
