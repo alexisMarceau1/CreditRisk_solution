@@ -139,6 +139,17 @@ The project is divided into two main repositories:
 
 Both repositories include comprehensive documentation to help set up and execute the project locally.
 
+### **Why Predictions Are Handled via API**
+
+Predictions in **SeattleEnergyForecast** are processed through a back-end API for the following reasons:
+- **Improved Performance**: Offloads heavy computations to the server, keeping the interface fast and responsive.
+- **Scalability**: Centralized processing allows seamless handling of multiple requests.
+- **Enhanced Security**: Ensures sensitive data is processed safely on the server side.
+- **Ease of Maintenance**: Simplifies model updates without requiring changes to the front end.
+
+This architecture ensures a streamlined user experience while adhering to modern best practices.
+
+
 ---
 
 ## 📫 **Contact**
