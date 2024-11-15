@@ -1,6 +1,6 @@
 # 📊 **CreditRisk: A Credit Scoring Model for Predicting Loan Defaults**
 
-![Dashboard Preview](demo/dash.png)
+![Dashboard Preview](demo/dash1.png)
 
 ## 🏢 **Project Overview**
 
