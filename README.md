@@ -110,6 +110,7 @@ https://github.com/user-attachments/assets/c12f66ef-31ed-4008-a8f6-466a66160254
 
 
 https://github.com/user-attachments/assets/1faf7368-595f-48f4-a074-173a5db44d5c
+> **Note**: An analyst can select a specific client, view their risk score, and understand the factors driving the model's decision through interactive visualizations.
 
 
 
