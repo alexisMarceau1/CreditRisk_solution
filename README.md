@@ -132,7 +132,7 @@ CreditRisk provides significant value for financial institutions by:
 The project is divided into two main repositories:
 
 - **Back-End Repository**: [CreditRisk Back-End](https://github.com/alexisMarceau1/CreditRisk_backend)
-  Includes all necessary files and instructions to preprocess the data, train the model, and deploy the API.
+  Includes all necessary files and instructions to deploy the API.
 
 - **Front-End Repository**: [CreditRisk Front-End](https://github.com/alexisMarceau1/CreditRisk_frontend) 
   Contains the code and setup instructions for running the interactive dashboard locally.
