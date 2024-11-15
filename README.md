@@ -65,10 +65,14 @@ The dataset contains over **300,000 loan applications** with 122 features before
 ### **5. Custom Cost Function**
 A custom cost function was created to prioritize reducing **False Negatives (FN)** over **False Positives (FP)**, reflecting the business's financial priorities.
 
-#### What is a False Negative (FN)?
-- **False Negative**: The model predicts a client will repay their loan (low risk), but they default (high risk).
-- **Impact**: Leads to direct financial loss since the loan principal is not repaid.
-- **Why Prioritize FNs?**: False Negatives are more costly than False Positives, as they result in actual losses, while False Positives only represent missed revenue opportunities.
+#### Definitions:
+- **False Negative (FN)**: The model predicts a client will repay their loan (low risk), but they default (high risk).  
+  - **Impact**: Leads to direct financial loss, as the loan principal is not repaid.
+- **False Positive (FP)**: The model predicts a client will default (high risk), but they actually repay (low risk).  
+  - **Impact**: Results in missed revenue, as creditworthy clients are wrongly denied loans.
+
+#### Why Prioritize FNs?
+False Negatives are more costly than False Positives because they lead to direct financial losses, while False Positives only represent missed revenue opportunities. Reducing FNs ensures better risk management and minimizes losses.
 
 #### Optimization Strategy:
 - Used **Bayesian Optimization** (HyperOpt) with a custom cost function that heavily penalizes False Negatives.
