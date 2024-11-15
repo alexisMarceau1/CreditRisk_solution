@@ -141,7 +141,7 @@ Both repositories include comprehensive documentation to help set up and execute
 
 ### **Why Predictions Are Handled via API**
 
-Predictions in **SeattleEnergyForecast** are processed through a back-end API for the following reasons:
+Predictions are processed through a back-end API for the following reasons:
 - **Improved Performance**: Offloads heavy computations to the server, keeping the interface fast and responsive.
 - **Scalability**: Centralized processing allows seamless handling of multiple requests.
 - **Enhanced Security**: Ensures sensitive data is processed safely on the server side.
