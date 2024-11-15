@@ -114,7 +114,6 @@ https://github.com/user-attachments/assets/c12f66ef-31ed-4008-a8f6-466a66160254
 > - **Red (60-100%)**: High risk, likely to default.
  
 > Adjusting the decision threshold (e.g., setting it at 60%) allows the institution to reduce False Negatives by rejecting clients with a high predicted risk of default, aligning decisions with business risk tolerance. The 60% threshold was determined by analyzing the expected statistical gain across different thresholds.
->![threshold](demo/threshold.png)
 > It represents the point where the trade-off between minimizing False Negatives (high-risk clients classified as low risk) and maximizing the business objective of reducing financial losses is optimized.
 >  This threshold can be further refined based on more detailed domain knowledge or changes in the institution's strategic objectives.
 
