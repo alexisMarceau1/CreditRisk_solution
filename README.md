@@ -12,7 +12,7 @@ CreditRisk is a machine learning project designed to predict the likelihood of l
 ---
 
 ## 📚 **Dataset Description**
-
+The data and their descriptions are available on the Kaggle competition website: Home Credit Default Risk.
 The dataset contains over **300,000 loan applications** with 122 features before feature engineering. The target variable (`TARGET`) indicates:
 - `0`: Loan was repaid.
 - `1`: Loan was not repaid.
