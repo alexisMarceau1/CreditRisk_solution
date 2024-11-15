@@ -139,7 +139,7 @@ The project is divided into two main repositories:
 
 Both repositories include comprehensive documentation to help set up and execute the project locally.
 
-### **Why Predictions Are Handled via API**
+### **Why Predictions Are Handled via API ?**
 
 Predictions are processed through a back-end API for the following reasons:
 - **Improved Performance**: Offloads heavy computations to the server, keeping the interface fast and responsive.
