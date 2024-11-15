@@ -113,7 +113,7 @@ https://github.com/user-attachments/assets/c12f66ef-31ed-4008-a8f6-466a66160254
 > - **Orange (40-60%)**: Elevated risk.  
 > - **Red (60-100%)**: High risk, likely to default.
  
-> Adjusting the decision threshold (e.g., setting it at 60%) allows the institution to reduce False Negatives by rejecting clients with a high predicted risk of default, aligning decisions with business risk tolerance.
+> Adjusting the decision threshold (e.g., setting it at 60%) allows the institution to reduce False Negatives by rejecting clients with a high predicted risk of default, aligning decisions with business risk tolerance. This threshold can be further refined based on more detailed domain knowledge or changes in the institution's strategic objectives.
 
 
 
